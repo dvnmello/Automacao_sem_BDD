@@ -10,4 +10,4 @@
 
 ## Report do total de testes realizados
 
-<img src="C:\Users\diego.adm\Desktop\MediPreco\cypress\report\Testes.jpg" alt="Testes" style="zoom:80%;" />
+<img src="https://github.com/dvnmello/Automacao_sem_BDD/tree/main/cypress/report/Testes.jpg" alt="Testes" style="zoom:80%;" />
